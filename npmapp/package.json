@@ -9,8 +9,6 @@
   "keywords": [],
   "author": "Mahabubur Rahman",
   "license": "MIT",
-  "dependencies": {
-    "lodash": "^4.17.20"
-  },
+  "dependencies": {},
   "devDependencies": {}
 }
