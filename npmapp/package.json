@@ -11,5 +11,9 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "^4.17.20"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
   }
 }
